@@ -1,8 +1,8 @@
-# -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*
 """
 Created on Tue Mar  9 20:12:30 2021
 
-@author: moritz hobein & katharina steeg
+@author: Moritz Hobein & Katharina Steeg
 """
 import os.path
 import matplotlib.pyplot as plt
